@@ -1,1 +1,1 @@
-# breast-cancer-detection
+# General Assembly Data Science Challenge
