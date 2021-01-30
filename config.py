@@ -1,1 +1,0 @@
-OUTLIER_VARS_DICT = {'area_sd_error':1.509}
